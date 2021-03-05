@@ -1,0 +1,120 @@
+body{
+    margin:0;
+    padding:0;
+    text-align: center ;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    line-height: 2;
+}
+h1{
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;  
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+P{
+    font-family: 'Montserrat', sans-serif;
+    padding: 30px;
+}
+hr{
+    width: 5%;
+    border: 5px none #EAF6F6;
+    border-top-style: dotted;
+}
+a:hover{
+    color: #749191;    
+}
+.objective {
+    width: 50%;
+    margin:auto;
+}
+.paragraph-footer{
+    width: 40%;
+    margin:auto;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    top: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.top-container{
+    padding-top: 80px;
+    background-color: #EAF6F6;
+    position: relative;
+}
+.middle-container{
+   margin: 80px 0;
+}
+
+.images, .cooking-img, .code-img{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+}
+.skills{
+    margin-top: 80px ;
+}
+.skill-row{
+    width: 50%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    
+}
+.contact-me{
+    margin-top: 80px ;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.cooking-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px; 
+}
+.btn{
+    background:linear-gradient(#11cdd4, #11999e);
+    padding: 10px;
+    border-radius: 8%;
+    text-decoration: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.btn:hover{
+     background:linear-gradient(#30e3cb, #2bc40d);
+}
+.contact-me{
+    margin-bottom: 100px;
+}
+.bottom-container{
+    background-color: #EAF6F6; 
+    padding: 50px 0 20px;
+}
+.copy-right{
+    color: #749191 ;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.footer-link{
+    text-decoration: none;
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;  
+    margin:10px 20px;
+}
+
